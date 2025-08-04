@@ -1,0 +1,7 @@
+nome:Adailton
+
+sobre nome:Veras
+
+cpf:007.777.777-77
+
+filme favorito:carros

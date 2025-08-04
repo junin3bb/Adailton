@@ -1,7 +1,5 @@
-nome:Adailton
+nome:Adailton veras
 
-sobre nome:Veras
+filme favorito: teste
 
 cpf:007.777.777-77
-
-filme favorito:carros
